@@ -1,8 +1,8 @@
-## Hi there 👋 It's me Jude Bettlin
+## Hi there 👋 It's me Guru Prasad
 
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I’m currently learning DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning java and Integrating knowlege to my workflow
 - Studing at **SNS COLLEGE OF ENGINEERING** : https://snsce.ac.in/
 - ⚡ Fun fact: I know Japanese.
 - Social Presence

@@ -6,7 +6,7 @@ Software Engineer
 - Studing at **SNS COLLEGE OF ENGINEERING** : https://snsce.ac.in/
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
-- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guru-prasad-s-) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]([https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=bgvuh2t](https://www.instagram.com/.gurux.?igsh=MTI0OXBtNDJ6Z29jdQ==))
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guru-prasad-s-) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]([https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=bgvuh2t](https://www.instagram.com/.gurux.?igsh=MTI0OXBtNDJ6Z29jdQ==))
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
@@ -16,4 +16,3 @@ Software Engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/guruprasad63816?theme=dark&font=Newsreader&ext=heatmap)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JUDE-BETTLIN-A&bg_color=171617&color=fafafa&line=13ec49&point=fbefef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
